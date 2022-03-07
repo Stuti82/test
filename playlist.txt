@@ -2,3 +2,7 @@ testing branch
 switching branch
 another line
 after merging 
+<<<<<<< HEAD
+=======
+bugfix
+>>>>>>> bugfix
