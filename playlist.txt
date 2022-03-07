@@ -2,7 +2,6 @@ testing branch
 switching branch
 another line
 after merging 
-<<<<<<< HEAD
-=======
-bugfix
->>>>>>> bugfix
+lklklklk
+m,mlkjkjk
+kjkjkjk
